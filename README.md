@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Aditya01237
 - 👀 I’m interested in Coding,Web Development
-- 🌱 I’m currently learning Java , DSA
+- 🌱 I’m currently learning Javascript , DSA
+     ReactJs,  React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pareekaditya01@gmail.com
 
