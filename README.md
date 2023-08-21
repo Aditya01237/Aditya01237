@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋, I'm Aditya Pareek<br>🌱 I’m currently learning Web3, Solidity, Ethereum<br>👨‍💻 All of my projects are available at https://aditya01237.github.io/Portfolio/<br>💬 Ask me about React, Flutter<br>📫 How to reach me pareekaditya01@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1cH7UrSAtYAv37Rp5ltjXFboQm9yWzSc1/view?usp=drive_link
+👋, I'm Aditya Pareek<br>🌱 I’m currently learning Web3, Solidity, Ethereum<br>👨‍💻 All of my projects are available at https://aditya01237.github.io/Portfolio/<br>💬 Ask me about React, Flutter<br>📫 How to reach me pareekaditya01@gmail.com<br>
 
 
 ## 🌐 Socials:
