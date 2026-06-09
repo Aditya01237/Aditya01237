@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6a0dad,100:ff6ec7&height=200&section=header&text=Aditya%20Pareek&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DevOps%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,30:8B0000,60:CC2200,85:FF4500,100:FF6A00&height=200&section=header&text=Aditya%20Pareek&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DevOps%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+scalable+systems+from+scratch...;Microservices+%7C+DevOps+%7C+Full+Stack;Clean+code+is+not+a+luxury%2C+it's+a+habit." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+scalable+systems+from+scratch...;Microservices+%7C+DevOps+%7C+Full+Stack;Clean+code+is+not+a+luxury%2C+it's+a+habit." alt="Typing SVG" />
 
 </div>
 
@@ -76,10 +76,10 @@
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
-|:---:|:---|:---:|
-| 🏥 **[SwasthyaSetu](https://github.com/Aditya01237)** | Healthcare DevOps platform with QR-based doctor access, microservices, and full CI/CD pipeline | Spring Boot · React · K8s · Jenkins |
-| 📚 **[ChunkCrafter](https://github.com/Aditya01237)** | Ed-Tech marketplace for purchasing specific book chapters or video segments; Gemini-powered auto-chunking | Spring Boot · React · Gemini API |
-| 🏦 **[VaultCore](https://github.com/Aditya01237)** | Multi-threaded banking system with ACID-compliant transactions and POSIX socket programming | C · POSIX Threads · Sockets |
+|:---|:---|:---|
+| 🏥 **SwasthyaSetu** | Healthcare DevOps platform with QR-based doctor access, microservices, and full CI/CD pipeline | Spring Boot · React · K8s · Jenkins |
+| 📚 **ChunkCrafter** | Ed-Tech marketplace for purchasing specific book chapters or video segments; Gemini-powered auto-chunking | Spring Boot · React · Gemini API |
+| 🏦 **VaultCore** | Multi-threaded banking system with ACID-compliant transactions and POSIX socket programming | C · POSIX Threads · Sockets |
 
 ---
 
@@ -87,13 +87,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya01237&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="165" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya01237&theme=tokyonight&hide_border=true&layout=compact" height="165" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya01237&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 
-<br/><br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya01237&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya01237&theme=tokyonight&hide_border=true" height="165" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya01237&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
 
@@ -129,8 +127,8 @@
 
 <br/>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Aditya01237&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Aditya01237&color=FF4500&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,50:6a0dad,100:0d1117&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A00,30:FF4500,60:CC2200,85:8B0000,100:1a0000&height=120&section=footer" />
 
 </div>
