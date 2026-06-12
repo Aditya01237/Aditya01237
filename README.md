@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,30:8B0000,60:CC2200,85:FF4500,100:FF6A00&height=200&section=header&text=Aditya%20Pareek&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DevOps%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+scalable+systems+from+scratch...;Microservices+%7C+DevOps+%7C+Full+Stack;Clean+code+is+not+a+luxury%2C+it's+a+habit." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+scalable+systems;Microservices+%7C+DevOps+%7C+Full+Stack;Clean+code+is+not+a+luxury%2C+it's+a+habit." alt="Typing SVG" />
 
 </div>
 
