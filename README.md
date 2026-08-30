@@ -10,9 +10,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **M.Tech CSE** @ IIIT Bangalore &nbsp;|&nbsp; CGPA: 3.55 / 4.0
+- 🎓 **M.Tech CSE** @ IIIT Bangalore 
 - 🏅 **AIR 648** in GATE 2025 — Computer Science & Engineering
-- ⚡ **Peak Rating 1821** on LeetCode
+- ⚡ **Peak Rating 1876** on LeetCode
 - 🔧 Passionate about **Microservices**, **DevOps**, and **Full Stack Development**
 - 🌱 Currently exploring **Distributed Systems** & **Cloud-Native Architecture**
 - 📫 Reach me at **pareekaditya01@gmail.com**
